@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  *
- * @author vison.cao <vison.cao@huolala.cm>
+ * @author vison.cao <visonforcoding@gmail.com>
  */
 public class Log {
 
